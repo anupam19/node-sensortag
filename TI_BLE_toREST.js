@@ -22,7 +22,7 @@ var n = 0;
 var postdata;
 
 
-/*specifiy your RESTful web service connection parameter*/
+/*specifiy your RESTful web service connection parameter here*/
 var options = {
   host: 'you.yourhost.com', /*write your hostname here*/
   path: '/path/do/done/post', /*path to data post*/
