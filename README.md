@@ -15,6 +15,8 @@ npm install sensortag
 
 See [test.js](test.js) or [sensorTag folder in Tom Igoe's BluetoothLE-Examples repo ](https://github.com/tigoe/BluetoothLE-Examples/tree/master/sensorTag)
 
+See [TI_BLE_toREST.js](TI_BLE_toREST.js) for connecting your BLE device to RESTful service with API
+
 ## Usage
 
 ```javascript
